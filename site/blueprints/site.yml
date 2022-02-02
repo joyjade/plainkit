@@ -1,2 +1,15 @@
-preset: pages
-unlisted: true
+tabs:
+  tabone:
+    label: Tab One
+    preset: pages
+    unlisted: true
+          
+  tabtwo:  
+    label: Tab Two
+    fields:
+      info:
+        label: Info
+        type: info
+        text: Another tab to fill with content
+
+
